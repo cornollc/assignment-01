@@ -1,0 +1,81 @@
+*
+{
+    margin: 0;
+}
+/* background image style */
+.header-details
+{
+    background-image: linear-gradient(#0000008f, #0000ff91, rgba(255, 99, 71, 0.616)),url("images/donation0.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.header-details
+{
+    height: 900px;
+    
+}
+/* heading details style */
+.div1
+{
+    color: white;
+    text-align: center;
+    padding-top: 250px;
+}
+.div1 h1
+{
+    font-size: 80px;
+}
+.div1 p
+{
+    font-size: 30px;
+}
+/* header button style */
+.hader-button
+{
+
+    height: 60px;
+    width: 150px;
+    margin-top: 80px;
+    border-radius: 5px;
+    background-color: tomato;
+    color: white;
+    font-size: 20px;
+}
+/* blod donate detalse */
+.blod-donate
+{
+    margin-top: 120px;
+    text-align: center;
+}
+.blod-donate-detalse h1
+{
+    margin-bottom: 30px;
+    font-size: 70px;
+}
+.blod-donate-detalse p
+{
+    margin-bottom: 30px;
+    font-size: 40px;
+}
+.today-score ul
+{
+    display: flex;
+    list-style: none;
+    
+}
+.today-score ul li
+{   
+    background-color: rgba(221, 221, 221, 0.76);
+    height: 120px;
+    width: 260px;
+    border-radius: 7px;
+    margin: 60px auto;
+}
+.center-problem
+{
+    margin-right: 60px;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 80px;
+}
